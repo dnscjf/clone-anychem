@@ -19,3 +19,4 @@
 - CSS
 - JS
 - Swiper
+- React
